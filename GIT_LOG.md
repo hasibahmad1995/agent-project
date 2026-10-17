@@ -6,8 +6,9 @@ Remote: https://github.com/hasibahmad1995/agent-project (public)
 
 ## History
 
-1. **Empty repository**: empty root commit (the earlier history was wiped by a force-push).
-2. **Add Google Search agent project**: re-added the project files.
+The repo was deleted and recreated, so history has a single commit.
+
+1. **Add Google Search agent project** (`a95ac6c`): initial commit with the files below.
 
 | File | Description |
 |---|---|
